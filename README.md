@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # crewlytics
 A modular multi-agent system for exploring product datasets, spotting trends, and visualizing insights with Python and LLMs.
 =======
@@ -120,4 +119,3 @@ pip install -r requirements.txt
 - **AJI Othman**
 
 **Supervised by:**  *Mme. Bentaleb Asmae*
->>>>>>> origin/master
