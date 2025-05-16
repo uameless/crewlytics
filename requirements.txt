@@ -1,0 +1,14 @@
+ 
+langchain
+langgraph
+google-generativeai
+pandas
+numpy
+seaborn
+matplotlib
+openpyxl
+streamlit
+python-dotenv
+scikit-learn 
+plotly        
+tqdm
