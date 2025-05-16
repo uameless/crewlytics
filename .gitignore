@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code config
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Output directories
+outputs/
+data/
+*.pdf
+
+# LangGraph / LangChain configs and API secrets
+.langgraph_api/
+langgraph.json
+
+
+# Python egg and cache
+*.egg
+*.egg-info/
+.eggs/
+*.pkl
+
+# Reports
+*.html
+*.pdf
+report/
+
+
+# Compiled Cython files
+*.c
+*.so
